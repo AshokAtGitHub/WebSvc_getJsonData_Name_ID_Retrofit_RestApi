@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ashok.retrofit_restapi_getname_id.MainActivity">
+
+    <TextView
+        android:id="@+id/titleLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app get JSON-data from www.codeEntries.com/api/users.json" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_below="@+id/titleLine"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="12sp"
+        android:text="Click here to get JSON-Data from www.codeEntries.com/api/users.json"
+        android:onClick="getUsersJsonDataFromWebsite" />
+
+    <TextView
+        android:id="@+id/txt_dataReceivedHeader"
+        android:layout_below="@+id/button"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:text=" " />
+
+    <TextView
+        android:id="@+id/txt_JsonDataLine_1"
+        android:layout_below="@+id/txt_dataReceivedHeader"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        android:textColor="@color/blue"
+        android:text=" " />
+
+    <TextView
+        android:id="@+id/txt_JsonDataLine_2"
+        android:layout_below="@+id/txt_JsonDataLine_1"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        android:textColor="@color/blue"
+        android:text=" "  />
+
+</RelativeLayout>

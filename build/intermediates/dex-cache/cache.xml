@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fe89e09aae6ad4adcb7abb762663535ca11e1da2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_c9a7a28ede8f54fe8b78d40529db2ccde0ffec6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5bd57f853598525b42918f445d8b8279ea8fd334">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6324e40c66b34c2368ca92e236b856a9f6919bf2\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_922d85e4802f3828d5efc58170b41b6bc4110f1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5ab6bf4bf7c461c453fa0c1c8d7158fbd11999d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_02e53717f6cd07f0a5d56cc0998a311ae1498989\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_5e0a24983d73e33b7e156491c9f28ba73d9c9be8\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_283f09070d9c05a2438361a1a4009d5a54f27659\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_19b93abcf9fb0fac8e80e1b2edb8e945cb8bde29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_84ae28e131d0ecb77935283be9dcd87113a4f553\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_23d262159a6019eb4fe6c2ec51223daf7d959a19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ashok\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_b7fa28e76ae2bfc5fd7aa4e883b7eb3ecace45b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c57ba2d0da744c9f23882667a8b44f2df751eac">
+        <dex dex="C:\ak\eduSelf\android\WebSvc_getJsonData_Name_ID_Retrofit_RestApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_de1760c76f07a1e13a100ab1f3924a921afd3404\classes.dex" />
+    </item>
+
+</items>
